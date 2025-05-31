@@ -79,9 +79,12 @@ airbnb-analysis/
 
 - Data validation/corrections.
 
-# 📜 License
-- MIT (or specify your chosen license)
+## 📜 License 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
+Copyright © 2025 [Sagarkumar49](https://github.com/Sagarkumar49)
 
-# 🔗 Connect with me:
+## 🔗 Connect with me:
 
 LinkedIn | Portfolio | Email
+
+
