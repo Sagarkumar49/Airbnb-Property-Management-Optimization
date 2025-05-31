@@ -8,7 +8,7 @@ This project analyzes Airbnb's property listings data to uncover actionable insi
 
 ## 🔍 Key Insights
 
-**📊 Listings Overview**
+### **📊 Listings Overview**
 
 - 92,355 listings across 5 cities, with Rome leading (30,000+ listings).
 
@@ -16,31 +16,31 @@ This project analyzes Airbnb's property listings data to uncover actionable insi
 
 - Peak availability in summer/autumn.
 
-**💰 Pricing Strategies**
+### **💰 Pricing Strategies**
 
 - Average price: $173.16 (median: $120), with a wide range ($8–$95,195).
 
 - Top listings generate >$350K revenue (premium/long-term stays).
 
-**🏆 Host Performance**
+### **🏆 Host Performance**
 
 - Superhosts average higher ratings (4.9 vs. 4.6) but charge 2.6% less.
 
 - Host registrations peaked in 2017; recent growth declined by 52%.
 
-**⭐ Customer Satisfaction**
+### **⭐ Customer Satisfaction**
 
 - Average rating: 4.72. High correlation between cleanliness, location, and value scores.
 
 - Identified 50+ high-rated budget listings (<$110) for promotions.
 
-**📅 Booking Trends**
+### **📅 Booking Trends**
 
 - Summer (June) peaks with 128K+ reviews; Rome is the top city.
 
 - Longest-running hosts active since 2008 (8+ years’ experience).
 
-**🛏️ Amenities**
+### **🛏️ Amenities**
 
 94% of listings offer private bathrooms; 51.65% accommodate 4+ guests.
 
