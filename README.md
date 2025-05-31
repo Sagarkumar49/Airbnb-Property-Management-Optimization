@@ -1,12 +1,12 @@
 # Airbnb-Property-Management-Optimization
 
-# 📌 Overview
+## 📌 Overview
 
 This project analyzes Airbnb's property listings data to uncover actionable insights for optimizing rental strategies, enhancing customer satisfaction, and maximizing revenue. The analysis includes key metrics on listings, pricing, host performance, ratings, and seasonal trends, visualized through a Tableau dashboard.
 
 **Goal:** Empower hosts and Airbnb with data-driven decisions to improve occupancy rates, competitive pricing, and guest experiences.
 
-# 🔍 Key Insights
+## 🔍 Key Insights
 
 **📊 Listings Overview**
 
@@ -44,7 +44,7 @@ This project analyzes Airbnb's property listings data to uncover actionable insi
 
 94% of listings offer private bathrooms; 51.65% accommodate 4+ guests.
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Data Analysis: SQL (queries), Excel (cleaning/EDA).
 
@@ -52,7 +52,7 @@ This project analyzes Airbnb's property listings data to uncover actionable insi
 
 - Documentation: GitHub, Markdown.
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 ```plaintext
 airbnb-analysis/  
 ├── data/                  # Raw and cleaned datasets (CSV/Excel)  
@@ -63,7 +63,7 @@ airbnb-analysis/
 ```
 
 
-# 📈 Future Enhancements
+## 📈 Future Enhancements
 
 - Integrate dynamic pricing models (machine learning).
 
@@ -71,7 +71,7 @@ airbnb-analysis/
 
 - Expand dataset to include competitor platforms.
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 - Contributions are welcome! Open an issue or submit a PR for:
 
